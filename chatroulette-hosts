@@ -1,1 +1,7 @@
+# Chatroulette DNS filter created by Ezmana on 21/02/2021
+# Last updated : 21.02.2021
 
+# Chatroulette domaines
+
+0.0.0.0 www.omegle.com
+0.0.0.0 omegle.com
