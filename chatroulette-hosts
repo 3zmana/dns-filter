@@ -3,14 +3,14 @@
 
 # Chatroulette domaines
 
-0.0.0.0 omegle.com
-0.0.0.0 chatroulette.com
-0.0.0.0 bazoocam.org
-0.0.0.0 mnogochat.com
-0.0.0.0 chateek.com
-0.0.0.0 zechatroulet.com
-0.0.0.0 roulettechat.fr
-0.0.0.0 rouletchat.net
-0.0.0.0 videochat.chat
-0.0.0.0 chatspin.com
-0.0.0.0 camcamcam.org
+||omegle.com^
+||chatroulette.com^
+||bazoocam.org^
+||mnogochat.com^
+||chateek.com^
+||zechatroulet.com^
+||roulettechat.fr^
+||rouletchat.net^
+||videochat.chat^
+||chatspin.com^
+||camcamcam.org^
