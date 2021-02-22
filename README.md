@@ -1,15 +1,19 @@
 # Chatroulette DNS Filter
 
-Chatroulette DNS Filter est une liste de blocage de domaine vers des services chatroulette pour Adguard Home.
+Chatroulette DNS Filter is a domain blocking list to chatroulette services for Adguard Home.
 
-# Compatibilité
+I created this list to block Chatroulette's services, because even though in their design they don't seem to be harmful. There are paedophile networks that are dangerous for our children.
 
-Cette liste a été conçu pour fonctionner avec Adguard Home mais vous pouvez l'utiliser dans Pi-hole, uBlock Origin, Adblock Plus, Adguard.
+# Compatibility
 
-# Utilisation
+This list was designed to work with Adguard Home but you can use it in Pi-hole, uBlock Origin, Adblock Plus, Adguard.
 
-Vous devez utiliser l'url suivante lorsque vous ajoutez une liste de blocage DNS sur votre serveur Adguard Home : https://raw.githubusercontent.com/3zmana/dns-filter/main/chatroulette-hosts
+# Usage
 
-# Demande d'ajout de domaine
+To add my DNS block list to your Adguard Home server, just copy URL : https://raw.githubusercontent.com/3zmana/dns-filter/main/chatroulette-hosts
 
-N'hésitez pas à demander l'ajout d'un domaine de site chatroulette dans la section Issues : https://github.com/3zmana/dns-filter/issues
+And connect to your Adguard Home dashboard then follow **Filters > DNS blocklists > Add blocklist > Add a custom list** Type the name you want and paste URL.
+
+# Request to add a domain
+
+You can request the addition of a domain name belonging to a Chatroulette site in the Issues section : https://github.com/3zmana/dns-filter/issues
