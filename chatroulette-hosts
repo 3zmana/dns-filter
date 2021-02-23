@@ -1,6 +1,6 @@
 # Chatroulette DNS filter created by Ezmana on 21/02/2021
 # Home page : https://github.com/3zmana/dns-filter
-# Last updated : 22.02.2021
+# Last updated : 23.02.2021
 
 # Chatroulette domaines
 
@@ -117,3 +117,11 @@
 ||coomeet.com^
 ||chatalternative.com^
 ||ucrak.com^
+||roulette-chat.fr^
+||parlemoi.org^
+||weebly.com^
+||roulettechat.com^
+||chatroulette.top^
+||camrumble.org^
+||chat-chatroulette.fr^
+||chaticam.com^
