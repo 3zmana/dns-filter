@@ -1,6 +1,7 @@
 # Chatroulette DNS filter created by Ezmana on 21/02/2021
 # Home page : https://github.com/3zmana/dns-filter
-# Updated : 14.03.2021
+# Request to add a domain : https://github.com/3zmana/dns-filter/issues
+# Updated : 15/03/2021
 
 # Chatroulette domaines
 
@@ -140,3 +141,12 @@
 ||camsnack.com^
 ||blabla.cam^
 ||azarlive.com^
+||roulette.chat^
+||roulette-chat.net^
+||sitetchat.com^
+||videochatusfr.com^
+||ulive.chat^
+||zoobacam.com^
+||rouletteducul.fr^
+||turninglove.com^
+||chatroulettesexe.com^
