@@ -1,7 +1,7 @@
 # Chatroulette DNS filter created by Ezmana on 21/02/2021
 # Home page : https://github.com/3zmana/dns-filter
 # Request to add a domain : https://github.com/3zmana/dns-filter/issues
-# Updated : 21/05/2023
+# Updated : 13/10/2024
 
 # Chatroulette domains
 
@@ -170,3 +170,7 @@
 ||coomeet.chat^
 ||chatroulettefree.com^
 ||camloo.com^
+||monkey.app^
+||omegla.live^
+||mimacy.net^
+||loveroulette.net^
